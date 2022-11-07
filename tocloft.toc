@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}\LaTeX 的方法}{2}{subsection.1.1}%
+\contentsline {section}{\numberline {2}The \textsf {tocloft} package}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Package options}{6}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Changing the titles}{6}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Typesetting the entries}{7}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}New list of\dots }{12}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Experimental utilities}{15}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Usage with other packages}{17}{subsection.2.6}%
+\contentsline {section}{\numberline {3}The package code}{18}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Support for the \textsf {subfigure} package}{36}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}New list of\dots }{39}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Switching page numbering}{43}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Experimental utilities}{46}{subsection.3.4}%

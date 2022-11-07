@@ -1,0 +1,23 @@
+1、在winedt中打开tocloft_ZH_CN.dtx，先用xelatex编译一次
+
+2、在winedt中打开命令行，键入命令：makeindex -s gind.ist -o tocloft_ZH_CN.ind tocloft_ZH_CN.idx         回车
+
+3、在生成的tocloft_ZH_CN.ind中中文化一些内容，比如将“symbol”汉化成“{\Heiti 符号}”
+
+4、打开doc.sty文件，
+
+4、打开中的doc.sty文件，搜索 \def\index@prologue，
+     将其中的“{\section*{Index}“改成“{\section*{\centering \heiti \Large 索\ 引}“        %%%% 格式化“索引”两个字
+     在\markboth{Index}{Index}%这一行的下面添加：\addcontentsline{toc}{part}{\heiti {\large 索引}}     %%%% 将“索引”添加到目录
+     再将其下面的一些内容即：Numbers written in italic refer to the page where the corresponding entry is described; numbers underlined refer to the code line of the definition; numbers in roman refer to the code lines where the entry is used，翻译成：斜体数字 (italicnumbers) 表示描述相应条目所在的页面 (pages)；带有下划线的数字 (numbersunderlined) 表示定义 (definition)的代码行；带有l前缀的数字表示使用该条目的代码行(code lines)。
+     
+     目录中的doc.sty是我已经汉化好了的！
+
+5、在winedt中再用xelatex编译至少两次
+
+生成的PDF文件就有中文的索引了
+
+
+
+
+

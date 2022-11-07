@@ -1,0 +1,16 @@
+\contentsline {section}{\CJKfamily {heiti}摘要}{1}{section*.1}%
+\contentsline {section}{\numberline {1}\CJKfamily {heiti}介绍}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}\LaTeX 的方法}{3}{subsection.1.1}%
+\contentsline {section}{\numberline {2}\textsf {tocloft}\ {\CJKfamily {heiti}宏包}}{9}{section.2}%
+\contentsline {subsection}{\numberline {2.1}宏包选项}{9}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}更改标题}{9}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}排版条目}{10}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}新列表\ \dots }{16}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}实验性程序}{20}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}与其他宏包一起使用}{22}{subsection.2.6}%
+\contentsline {section}{\numberline {3}\CJKfamily {heiti}宏包代码}{24}{section.3}%
+\contentsline {subsection}{\numberline {3.1}对 \textsf {subfigure}\ 宏包的支持}{51}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}新列表\ \dots }{54}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}切换页码}{61}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}实验性工具}{64}{subsection.3.4}%
+\contentsline {section}{\CJKfamily {heiti}{\large 索引}}{70}{section*.5}%
